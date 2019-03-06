@@ -1,2 +1,3 @@
 ---?color=#E58537
-## Snippets: A love story
+## Snippets
+A love story
