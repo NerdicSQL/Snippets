@@ -44,7 +44,7 @@ variables (literals) <br>
 tooltips <br>
 descriptions <br>
 
----?code=assets/code/TryCatch.snippets&lang=xml&title=Example .snippets file
+---?code=assets/code/TryCatch.snippet&lang=xml&title=Example .snippets file
 
 @[12-20](Header information)
 @[21](Start of the actual snippet)
