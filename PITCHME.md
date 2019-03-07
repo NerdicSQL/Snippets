@@ -1,4 +1,4 @@
-# SQL Server & Kubernetes
+# Snippets: Quickly reusable code
 
 ---
 
