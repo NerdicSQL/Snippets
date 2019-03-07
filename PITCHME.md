@@ -22,7 +22,7 @@ An overview of how to write and use snippets for SSMS
 
 ## Snippets in SSMS
 
-@ul[spaced text]
+@ul
 What are snippets? <br>
 Why should I use them? <br>
 When should I use them?
