@@ -44,9 +44,14 @@ variables (literals) <br>
 tooltips <br>
 descriptions <br>
 
----
+---?code=assets/code/TryCatch.snippets&lang=xml&title=Example .snippets file
 
-## Example .snippets file
+@[12-20](Header information)
+@[21](Start of the actual snippet)
+@[22-28](Declarations, including literals)
+@[29-40](Code Language = SQL, *insert code here*
+@[32](Reserved words)
+@[22-28,37](The literal $CatchCode)
 
 ---
 
