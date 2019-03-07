@@ -16,7 +16,7 @@ highlight : mono-blue
 # Layout setting options:
 # center, center-left, center-right, top, top-left, top-right
 #
-layout : center-left
+layout : center
 
 #
 # Transition setting options:
