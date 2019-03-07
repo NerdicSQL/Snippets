@@ -27,6 +27,7 @@ What are snippets? <br>
 Why should I use them? <br>
 When should I use them?
 @ulend
+
 ---
 
 ## Snippets in SSMS
