@@ -1,10 +1,10 @@
-@snap[west span-100]
+@snap[west]
 # Snippets: 
 ## Quickly reusable code
 @snapend
 
 ---
-@snap[west span-100]
+@snap[west span]
 ## Johan Kangasniemi
 
 ### SQL Server Developer 
@@ -16,7 +16,7 @@ Technical Business Analyst with CGA
 @snapend
 
 ---
-@snap[west span-100]
+@snap[west span]
 ## Contents
 
 An overview of how to write and use snippets for SSMS
