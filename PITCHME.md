@@ -52,6 +52,7 @@ An overview of how to write and use snippets for SSMS
 ---?code=assets/code/TryCatch.snippet&lang=xml&title=Example .snippets file
 
 @[12-20](Header information)
+@[16](Thanks BOL!)
 @[17-19](Two types: Extends/Surrounds)
 @[21](Start of the actual snippet)
 @[22-28](Declarations, including literals)
