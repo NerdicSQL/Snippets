@@ -8,7 +8,7 @@
 ## Johan Kangasniemi
 
 ### SQL Server Developer 
-Technical Business Analyst with CGA
+Technical Business Analyst with CGA <br>
 
 @fa[twitter] @NerdicSQL <br>
 @fa[envelope] johan@nerdic.it <br>
@@ -39,11 +39,14 @@ An overview of how to write and use snippets for SSMS
 ## Snippets in SSMS
 @snapend
 @snap[east span-50]
-.snippet extension <br>
-XML <br>
-variables (literals) <br>
-tooltips <br>
-descriptions <br>
+@ul
+- .snippet extension <br>
+- XML <br>
+- variables (literals) <br>
+- tooltips <br>
+- descriptions <br>
+- and more!
+@ulend
 @snapend
 
 ---?code=assets/code/TryCatch.snippet&lang=xml&title=Example .snippets file
