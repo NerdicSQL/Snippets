@@ -37,12 +37,13 @@ An overview of how to write and use snippets for SSMS
 ---
 
 ## Snippets in SSMS
-
+@snap[west]
 .snippet extension <br>
 XML <br>
 variables (literals) <br>
 tooltips <br>
 descriptions <br>
+@snapend
 
 ---?code=assets/code/TryCatch.snippet&lang=xml&title=Example .snippets file
 
