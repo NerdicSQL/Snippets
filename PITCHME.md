@@ -1,8 +1,7 @@
 ---?color=#E58537
-## Snippets
-A love story
-
-+++
+# Snippets
+## A love story
+---
 
 Testing this shiiit!
 
@@ -10,6 +9,6 @@ Testing this shiiit!
 
 This is bloody cool!
 
-+++
+---
 
 # This is the 2nd vertical
