@@ -1,14 +1,12 @@
----
-# Snippets
-## A love story
----
-
-Testing this shiiit!
+# SQL Server & Kubernetes
 
 ---
 
-This is bloody cool!
+## Johan Kangasniemi
 
----
+### SQL Server Developer & Technical Business Analyst with CGA
 
-# This is the 2nd vertical
+@fa[twitter] @NerdicSQL
+@fa[envelope] johan@nerdic.it
+@fa[wordpress] nerdic.it
+@fa[github] github.com/NerdicSQL
