@@ -40,7 +40,13 @@ descriptions <br>
 
 ---
 
+## Example .snippets file
+
+---
+
+@snap[centre]
 # DEMO
+@snapend
 
 ---
 
