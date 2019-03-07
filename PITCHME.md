@@ -32,7 +32,14 @@ An overview of how to write and use snippets for SSMS
 
 ## Snippets in SSMS
 
-xml files <br>
-.snippet extension
+.snippet extension <br>
+XML <br>
+variables (literals) <br>
+tooltips <br>
+descriptions <br>
 
+---
 
+@snap[north span-70]
+**DEMO**
+@snapend
