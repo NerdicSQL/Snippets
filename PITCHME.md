@@ -35,9 +35,10 @@ An overview of how to write and use snippets for SSMS
 @snapend
 
 ---
-
+@snap[west span-50]
 ## Snippets in SSMS
-@snap[west]
+@snapend
+@snap[east span-50]
 .snippet extension <br>
 XML <br>
 variables (literals) <br>
