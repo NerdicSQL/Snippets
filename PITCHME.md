@@ -1,5 +1,7 @@
+@snap[west span-100]
 # Snippets: 
 ## Quickly reusable code
+@snapend
 
 ---
 @snap[west span-100]
