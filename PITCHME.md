@@ -44,9 +44,7 @@ descriptions <br>
 
 ---
 
-@snap[centre]
-**DEMO**
-@snapend
+@size[2em](DEMO)
 
 ---
 
