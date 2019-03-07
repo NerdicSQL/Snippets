@@ -22,7 +22,7 @@ layout : center
 # Transition setting options:
 # convex, concave, default, fade, none, slide, zoom
 #
-transition : slide
+# transition : slide
 
 footnote : "Snippets: Quickly reusable code"
 
