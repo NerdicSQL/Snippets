@@ -23,7 +23,7 @@ An overview of how to write and use snippets for SSMS
 @snapend
 
 ---
-@snap[west span-50]
+@snap[north-west]
 ## Snippets in SSMS
 @snapend
 @snap[east span-50]
@@ -35,10 +35,10 @@ An overview of how to write and use snippets for SSMS
 @snapend
 
 ---
-@snap[west span-50]
+@snap[north-west]
 ## Snippets in SSMS
 @snapend
-@snap[east span-50]
+@snap[centre span-50]
 @ul
 - .snippet extension <br>
 - XML <br>
