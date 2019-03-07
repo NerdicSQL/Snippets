@@ -2,7 +2,7 @@
 ## Quickly reusable code
 
 ---
-@snap[centre-left span-100]
+@snap[west span-100]
 ## Johan Kangasniemi
 
 ### SQL Server Developer 
