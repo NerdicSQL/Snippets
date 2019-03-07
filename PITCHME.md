@@ -45,7 +45,7 @@ descriptions <br>
 ---
 
 @snap[centre]
-# DEMO
+**DEMO**
 @snapend
 
 ---
