@@ -26,7 +26,7 @@ An overview of how to write and use snippets for SSMS
 @snap[north-west]
 ## Snippets in SSMS
 @snapend
-@snap[east span-50]
+@snap[centre]
 @ul
 - What are snippets?
 - Why should I use them?
@@ -38,7 +38,7 @@ An overview of how to write and use snippets for SSMS
 @snap[north-west]
 ## Snippets in SSMS
 @snapend
-@snap[centre span-50]
+@snap[centre]
 @ul
 - .snippet extension <br>
 - XML <br>
