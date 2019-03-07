@@ -44,7 +44,7 @@ descriptions <br>
 
 ---
 
-@size[2em](DEMO)
+# DEMO!
 
 ---
 
